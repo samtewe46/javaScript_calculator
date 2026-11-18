@@ -66,7 +66,7 @@ Through this project, I practiced:
 
 Try the calculator here:
 
-[Open JavaScript Calculator](https://samtewe46.github.io/javascript_calculator/)
+[Open JavaScript Calculator](https://samtewe46.github.io/javaScript_calculator/)
 
 
 ## Author
