@@ -61,7 +61,13 @@ Through this project, I practiced:
 
 ## Live Demo
 
-Live website: Add your GitHub Pages URL here after deployment.
+
+## Live Demo
+
+Try the calculator here:
+
+[Open JavaScript Calculator](https://samaratew.github.io/javascript-calculator/)
+
 
 ## Author
 
